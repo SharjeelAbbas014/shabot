@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>How are you?</pattern>
-    <template>I am fine!</template>
+    <pattern>*</pattern>
+    <template>I don't know that</template>
+    
   </category>
+  <category>
+      <pattern>How are you?</pattern>
+    <template>I am fine</template>
+  </category>
+  
 </aiml>
+
